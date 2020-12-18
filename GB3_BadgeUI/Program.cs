@@ -10,6 +10,8 @@ namespace GB3_BadgeUI
     {
         static void Main(string[] args)
         {
+            ProgramUI program = new ProgramUI();
+            program.Run();
         }
     }
 }
